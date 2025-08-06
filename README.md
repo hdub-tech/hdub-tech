@@ -1,8 +1,9 @@
 ## H Dub
+_Automator / Debugger / Problem Solver / Security Champion / Prioritizer / Evaluator / Reviewer / Documentarian_
 
 - 🔭 I’m currently working on everything everywhere all at once.
 - 🌱 I’m currently learning how to better manage GitHub projects.
-- 👯 I’m looking to collaborate on anything security/infrastructure/pentest related.
+- 👯 I’m looking to collaborate on anything security/infrastructure/pentest/automation related, and I am Open to Work.
 - 💬 Ask me about anything reasonable.
 - 📫 How to reach me: https://www.linkedin.com/in/h-dub
 
