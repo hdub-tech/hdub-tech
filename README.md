@@ -6,7 +6,7 @@ _Automator / Debugger / Problem Solver / Security Champion / Prioritizer / Evalu
 - 👯 I’m looking to collaborate on anything security/infrastructure/pentest/automation related.
 - 💬 Ask me about anything reasonable.
 - 📫 How to reach me: https://www.linkedin.com/in/h-dub
-- 🛠️ I am $\textcolor{green}{\textbf{Open to Work}}$: specifically interested in roles involving infrastructure for pentest teams/companies.
+- 🛠️ I am $\textcolor{green}{\textbf{Open to (remote) Work}}$: specifically interested in roles involving infrastructure for pentest teams/companies.
 
 ### Open Source
 
