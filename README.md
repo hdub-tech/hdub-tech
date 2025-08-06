@@ -3,9 +3,10 @@ _Automator / Debugger / Problem Solver / Security Champion / Prioritizer / Evalu
 
 - 🔭 I’m currently working on everything everywhere all at once.
 - 🌱 I’m currently learning how to better manage GitHub projects.
-- 👯 I’m looking to collaborate on anything security/infrastructure/pentest/automation related, and I am Open to Work.
+- 👯 I’m looking to collaborate on anything security/infrastructure/pentest/automation related.
 - 💬 Ask me about anything reasonable.
 - 📫 How to reach me: https://www.linkedin.com/in/h-dub
+- 🛠️ I am $\textcolor{green}{\textbf{Open to Work}}$: specifically interested in roles involving infrastructure for pentest teams/companies.
 
 ### Open Source
 
