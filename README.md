@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on everything everywhere all at once.
 - 🌱 I’m currently learning how to better manage GitHub projects.
-- 👯 I’m looking to collaborate on anything interesting.
+- 👯 I’m looking to collaborate on anything security/infrastructure/pentest related.
 - 💬 Ask me about anything reasonable.
 - 📫 How to reach me: https://www.linkedin.com/in/h-dub
 
