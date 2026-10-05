@@ -9,6 +9,9 @@ _Automator / Debugger / Problem Solver / Security Champion / Prioritizer / Evalu
 - 🛠️ I am $\textcolor{green}{\textbf{Open to (remote) Contracting Work}}$: specifically interested in roles involving infrastructure, bonus points for pentest/security teams/companies.
 - 🤔 I’m looking for help with getting unbanned from Anthropic - https://gist.github.com/hdub-tech/9775cf1e17a9042a5a57c18df7362d45 
 
+### Talks
+
+Slides from my talks can be found [HERE](https://github.com/hdub-tech/hdub-tech/tree/main/talks).
 
 ### Open Source
 
